@@ -1,6 +1,6 @@
 # Movie Recommender System
 
-A comprehensive movie recommendation system implementing various matrix factorization algorithms, developed as part of the Methods of Classification and Dimensionality Reduction course.
+A movie recommendation system implementing various matrix factorization algorithms, developed as part of the Methods of Classification and Dimensionality Reduction course.
 
 ## Authors
 - Kamil Zaborniak
